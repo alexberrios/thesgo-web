@@ -1,9 +1,11 @@
 --- 
-
+// aca vamos a la seccion de login
 ---
 
-<div class="alert alert-block alert-info">
-    <b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
-    If it’s a note, you don’t have to include the word “Note”.
-
+<div class="flex flex-row justify-between items-center space-x-4 bg-gray-100 p-4 rounded-lg">
+    <input type="text" id="user" name="user" placeholder="Usuario" class="text-input form-input px-4 py-2 border border-gray-300 rounded-md focus:border-green-500 focus:ring-1 focus:ring-green-500">
+    <input type="password" id="password" name="password" placeholder="Contraseña" class="px-4 py-2 border border-gray-300 rounded-md focus:border-green-500 focus:ring-1 focus:ring-green-500">
+    <button class="bg-green-600 hover:bg-green-700 text-white px-4 py-2 font-semibold rounded-md transition-colors duration-200" id="login">Ingresar</button>
+    <button class="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 font-semibold rounded-md transition-colors duration-200" id="register">Registrarse</button>
+    <div id="error" class="text-red-500 font-semibold"></div>
 </div>
