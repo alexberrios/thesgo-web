@@ -1,0 +1,90 @@
+---
+import Logo from "../Header/Logo.astro";
+import InfoHeader from "../Header/InfoHeader.astro";
+import LoginSection from "../Header/LoginSection.astro";
+import NavigationButton from "../Header/NavigationButton.astro";
+---
+
+<InfoHeader />
+<header
+  class="flex flex-row items-center justify-between"
+  style="background: linear-gradient(to right, #273C75, #2C3E50);"
+>
+  <Logo />
+  <nav class="flex items-center space-x-1">
+    <NavigationButton href="#">
+      <svg
+        slot="before"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
+          d="M5 12l-2 0l9 -9l9 9l-2 0"></path><path
+          d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7"></path><path
+          d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6"></path></svg
+      >
+      Home
+    </NavigationButton>
+    <NavigationButton href="#">
+      Torneos
+      <svg
+        slot="before"
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
+          d="M8 21l8 0"></path><path d="M12 17l0 4"></path><path d="M7 4l10 0"
+        ></path><path d="M17 4v8a5 5 0 0 1 -10 0v-8"></path><path
+          d="M5 9m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"></path><path
+          d="M19 9m-2 0a2 2 0 1 0 4 0a2 2 0 1 0 -4 0"></path></svg
+      >
+    </NavigationButton>
+    <NavigationButton href="#">
+      Ranking
+      <svg
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        slot="before"
+        ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
+          d="M11 6h9"></path><path d="M11 12h9"></path><path d="M12 18h8"
+        ></path><path d="M4 16a2 2 0 1 1 4 0c0 .591 -.5 1 -1 1.5l-3 2.5h4"
+        ></path><path d="M6 10v-6l-2 2"></path></svg
+      >
+    </NavigationButton>
+    <NavigationButton href="#">
+      Noticias
+      <svg
+        width="24"
+        height="24"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        slot="before"
+        ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
+          d="M16 6h3a1 1 0 0 1 1 1v11a2 2 0 0 1 -4 0v-13a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1v12a3 3 0 0 0 3 3h11"
+        ></path><path d="M8 8l4 0"></path><path d="M8 12l4 0"></path><path
+          d="M8 16l4 0"></path></svg
+      >
+    </NavigationButton>
+  </nav>
+  <LoginSection />
+</header>
