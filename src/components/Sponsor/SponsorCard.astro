@@ -1,0 +1,15 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+
+---
+
+<div class="sponsor-component p-4 lg:w-1/4 md:w-1/2 w-full items-center justify-center">
+    <slot />
+    <p class="text-white mx-5 my-2">
+        <strong>{title}</strong>
+    </p>
+</div>
