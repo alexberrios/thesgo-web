@@ -1,0 +1,460 @@
+{
+    "news": [
+      {
+        "uuid": "1e87d7e1-8f1b-4b3c-8d1a-e2d6dbd43c0a",
+        "title": "M80 asegura su lugar en el Thunderpick World Championship",
+        "content": "Después de una intensa victoria contra Nouns, el equipo M80 ha conseguido su plaza en el campeonato mundial.",
+        "source": "Dust2.us",
+        "date": "2024-05-25"
+      },
+      {
+        "uuid": "b3d4c760-9e9e-4f4d-a6e6-620907dd9f9d",
+        "title": "Decisión sobre el futuro de hallzerk en Complexity",
+        "content": "Complexity ha tomado una decisión sobre el futuro de hallzerk, con contratos en proceso.",
+        "source": "Dust2.us",
+        "date": "2024-05-25"
+      },
+      {
+        "uuid": "2a484b73-9b92-4c14-8d72-fb289cb4a8ee",
+        "title": "KayJay entra en agencia libre tras la disolución de Guild Eagles",
+        "content": "Guild Eagles se ha disuelto, dejando a KayJay en el mercado de agencia libre.",
+        "source": "Dust2.us",
+        "date": "2024-05-24"
+      },
+      {
+        "uuid": "6cddfbd3-4b26-4c09-8e17-cb469ba1656d",
+        "title": "Take Flyte se separa de BeaKie",
+        "content": "El equipo Take Flyte ha decidido terminar su asociación con el jugador BeaKie.",
+        "source": "Dust2.us",
+        "date": "2024-05-24"
+      },
+      {
+        "uuid": "a789de47-9b7a-49e7-aecf-b7e7ef03320d",
+        "title": "Limitless rifler termina la temporada de ECL jugando desde un crucero",
+        "content": "En una nota curiosa, un jugador de Limitless completó la temporada mientras estaba en un crucero.",
+        "source": "Dust2.us",
+        "date": "2024-05-24"
+      },
+      {
+        "uuid": "fc3a1db9-08b0-4d15-9b1e-bb9d91e172d3",
+        "title": "Nuevo asistente de coach de Evil Geniuses se une a FlyQuest RED",
+        "content": "Un ex asistente de coach de Evil Geniuses ha firmado con FlyQuest RED.",
+        "source": "Dust2.us",
+        "date": "2024-05-24"
+      },
+      {
+        "uuid": "e22376e1-f086-4e80-839d-3e4ed7c63d89",
+        "title": "Evento wildcard femenino para Thunderpick World Championship NA Qualifier",
+        "content": "Thunderpick organizará un evento wildcard para mujeres en el clasificatorio norteamericano.",
+        "source": "Dust2.us",
+        "date": "2024-05-24"
+      },
+      {
+        "uuid": "fe86a237-05d3-4b96-9d6d-c150e2f49e3f",
+        "title": "M80 y Nouns se enfrentarán en las finales del Thunderpick World Championship",
+        "content": "Los equipos se preparan para una emocionante final.",
+        "source": "Dust2.us",
+        "date": "2024-05-24"
+      },
+      {
+        "uuid": "c51c7d41-4b69-4327-86a7-0c52f8db9c9b",
+        "title": "M80 asegura el primer lugar después de un final salvaje en ECL S47",
+        "content": "Un emocionante cierre de temporada ve a M80 en la cima.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      },
+      {
+        "uuid": "b8b9f172-6329-4d58-b189-0b9f98d6b0a4",
+        "title": "Actuación inhumana de Twistzz impulsa a Liquid sobre Astralis",
+        "content": "Twistzz destacó en una actuación impresionante contra Astralis.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      },
+      {
+        "uuid": "5d4b27b8-9825-489c-8152-b567a9eebbf0",
+        "title": "Escenarios de calificación y relegación antes de los últimos enfrentamientos de ECL",
+        "content": "Un análisis de los posibles escenarios antes de los últimos juegos de la temporada.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      },
+      {
+        "uuid": "d176cf2a-d41e-43cf-8a2a-7b8eaf6ad213",
+        "title": "Nouns gana $20k en BoomTV Code Freedom",
+        "content": "El equipo Nouns se lleva un gran premio en el torneo BoomTV Code Freedom.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      },
+      {
+        "uuid": "007b2dbf-d09e-44b3-8a56-547cfb74fd0b",
+        "title": "Lo que se espera del enfrentamiento Liquid vs. Eternal Fire en las finales de CCT S1",
+        "content": "Un análisis previo al enfrentamiento final.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      },
+      {
+        "uuid": "27b47123-05b2-44eb-9c60-7919256b0cc3",
+        "title": "IEM Dallas 2024 anuncia el talento con mucho enfoque en NA",
+        "content": "Se anuncia el talento para IEM Dallas con un fuerte enfoque en el talento norteamericano.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      },
+      {
+        "uuid": "1a72ab7a-8483-41ff-89a3-5e2a2a8168f1",
+        "title": "MIGHT descendido de ESL Challenger League después de una temporada desastrosa",
+        "content": "El equipo MIGHT ha sido relegado después de una temporada difícil.",
+        "source": "Dust2.us",
+        "date": "2024-05-23"
+      }
+    ],
+
+  "teams": [
+    {
+      "uuid": "a1b2c3d4-e5f6-7a8b-9c0d-e1f2a3b4c5d6",
+      "rank": 1,
+      "name": "MOUZ",
+      "points": 1000
+    },
+    {
+      "uuid": "b1c2d3e4-f5a6-7b8c-9d0e-f1a2b3c4d5e6",
+      "rank": 2,
+      "name": "FaZe",
+      "points": 905
+    },
+    {
+      "uuid": "c1d2e3f4-a5b6-7c8d-9e0f-a1b2c3d4e5f6",
+      "rank": 3,
+      "name": "Natus Vincere",
+      "points": 686
+    },
+    {
+      "uuid": "d1e2f3a4-b5c6-7d8e-9f0a-b1c2d3e4f5a6",
+      "rank": 4,
+      "name": "Vitality",
+      "points": 655
+    },
+    {
+      "uuid": "e1f2a3b4-c5d6-7e8f-9a0b-c1d2e3f4a5b6",
+      "rank": 5,
+      "name": "G2",
+      "points": 527
+    },
+    {
+      "uuid": "f1a2b3c4-d5e6-7f8a-9b0c-d1e2f3a4b5c6",
+      "rank": 6,
+      "name": "Heroic",
+      "points": 500
+    },
+    {
+      "uuid": "a2b3c4d5-e6f7-8a9b-0c1d-f2a3b4c5d6e7",
+      "rank": 7,
+      "name": "Cloud9",
+      "points": 480
+    },
+    {
+      "uuid": "b2c3d4e5-f6a7-8b9c-0d1e-a3b4c5d6e7f8",
+      "rank": 8,
+      "name": "NIP",
+      "points": 460
+    },
+    {
+      "uuid": "c2d3e4f5-a6b7-8c9d-0e1f-b4c5d6e7f8a9",
+      "rank": 9,
+      "name": "Liquid",
+      "points": 440
+    },
+    {
+      "uuid": "d2e3f4a5-b6c7-8d9e-0f1a-c5d6e7f8a9b0",
+      "rank": 10,
+      "name": "Astralis",
+      "points": 420
+    },
+    {
+      "uuid": "e2f3a4b5-c6d7-8e9f-0a1b-d6e7f8a9b0c1",
+      "rank": 11,
+      "name": "Virtus.pro",
+      "points": 400
+    },
+    {
+      "uuid": "f2a3b4c5-d6e7-8f9a-0b1c-e7f8a9b0c1d2",
+      "rank": 12,
+      "name": "BIG",
+      "points": 380
+    },
+    {
+      "uuid": "a3b4c5d6-e7f8-9a0b-1c2d-f8a9b0c1d2e3",
+      "rank": 13,
+      "name": "FURIA",
+      "points": 360
+    },
+    {
+      "uuid": "b3c4d5e6-f7a8-9b0c-1d2e-a9b0c1d2e3f4",
+      "rank": 14,
+      "name": "ENCE",
+      "points": 340
+    },
+    {
+      "uuid": "c3d4e5f6-a7b8-9c0d-1e2f-b0c1d2e3f4a5",
+      "rank": 15,
+      "name": "Complexity",
+      "points": 320
+    },
+    {
+      "uuid": "d3e4f5a6-b7c8-9d0e-1f2a-c1d2e3f4a5b6",
+      "rank": 16,
+      "name": "OG",
+      "points": 300
+    },
+    {
+      "uuid": "e3f4a5b6-c7d8-9e0f-1a2b-d2e3f4a5b6c7",
+      "rank": 17,
+      "name": "Fnatic",
+      "points": 280
+    },
+    {
+      "uuid": "f3a4b5c6-d7e8-9f0a-1b2c-e3f4a5b6c7d8",
+      "rank": 18,
+      "name": "Movistar Riders",
+      "points": 260
+    },
+    {
+      "uuid": "a4b5c6d7-e8f9-0a1b-2c3d-f4a5b6c7d8e9",
+      "rank": 19,
+      "name": "MIBR",
+      "points": 240
+    },
+    {
+      "uuid": "b4c5d6e7-f8a9-0b1c-2d3e-a5b6c7d8e9f0",
+      "rank": 20,
+      "name": "Spirit",
+      "points": 220
+    },
+    {
+      "uuid": "c4d5e6f7-a8b9-0c1d-2e3f-b6c7d8e9f0a1",
+      "rank": 21,
+      "name": "Renegades",
+      "points": 200
+    },
+    {
+      "uuid": "d4e5f6a7-b8c9-0d1e-2f3a-c7d8e9f0a1b2",
+      "rank": 22,
+      "name": "9z",
+      "points": 180
+    },
+    {
+      "uuid": "e4f5a6b7-c8d9-0e1f-2a3b-d8e9f0a1b2c3",
+      "rank": 23,
+      "name": "GamerLegion",
+      "points": 160
+    },
+    {
+      "uuid": "f4a5b6c7-d8e9-0f1a-2b3c-e9f0a1b2c3d4",
+      "rank": 24,
+      "name": "Sprout",
+      "points": 140
+    },
+    {
+      "uuid": "a5b6c7d8-e9f0-0a1b-2c3d-f0a1b2c3d4e5",
+      "rank": 25,
+      "name": "Evil Geniuses",
+      "points": 120
+    },
+    {
+      "uuid": "b5c6d7e8-f9a0-0b1c-2d3e-a1b2c3d4e5f6",
+      "rank": 26,
+      "name": "HAVU",
+      "points": 100
+    },
+    {
+      "uuid": "c5d6e7f8-a9b0-0c1d-2e3f-b2c3d4e5f6a7",
+      "rank": 27,
+      "name": "forZe",
+      "points": 90
+    },
+    {
+      "uuid": "d5e6f7a8-b9c0-0d1e-2f3a-c3d4e5f6a7b8",
+      "rank": 28,
+      "name": "Endpoint",
+      "points": 80
+    },
+    {
+      "uuid": "e5f6a7b8-c9d0-0e1f-2a3b-d4e5f6a7b8c9",
+      "rank": 29,
+      "name": "Sinners",
+      "points": 70
+    },
+    {
+      "uuid": "f5a6b7c8-d9e0-0f1a-2b3c-e5f6a7b8c9d0",
+      "rank": 30,
+      "name": "Extra Salt",
+      "points": 60
+    }
+  ],
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US",
+      "flag_url": "https://www.countryflags.io/US/flat/64.png"
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "flag_url": "https://www.countryflags.io/DE/flat/64.png"
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "flag_url": "https://www.countryflags.io/BR/flat/64.png"
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "flag_url": "https://www.countryflags.io/CA/flat/64.png"
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "flag_url": "https://www.countryflags.io/FR/flat/64.png"
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "flag_url": "https://www.countryflags.io/GB/flat/64.png"
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "flag_url": "https://www.countryflags.io/RU/flat/64.png"
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "flag_url": "https://www.countryflags.io/CN/flat/64.png"
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "flag_url": "https://www.countryflags.io/JP/flat/64.png"
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "flag_url": "https://www.countryflags.io/AU/flat/64.png"
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "flag_url": "https://www.countryflags.io/ES/flat/64.png"
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "flag_url": "https://www.countryflags.io/IT/flat/64.png"
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "flag_url": "https://www.countryflags.io/MX/flat/64.png"
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "flag_url": "https://www.countryflags.io/IN/flat/64.png"
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "flag_url": "https://www.countryflags.io/NL/flat/64.png"
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "flag_url": "https://www.countryflags.io/SE/flat/64.png"
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "flag_url": "https://www.countryflags.io/DK/flat/64.png"
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "flag_url": "https://www.countryflags.io/PL/flat/64.png"
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "flag_url": "https://www.countryflags.io/FI/flat/64.png"
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "flag_url": "https://www.countryflags.io/NO/flat/64.png"
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "flag_url": "https://www.countryflags.io/TR/flat/64.png"
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "flag_url": "https://www.countryflags.io/UA/flat/64.png"
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "flag_url": "https://www.countryflags.io/BY/flat/64.png"
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "flag_url": "https://www.countryflags.io/LT/flat/64.png"
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "flag_url": "https://www.countryflags.io/BE/flat/64.png"
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "flag_url": "https://www.countryflags.io/CH/flat/64.png"
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "flag_url": "https://www.countryflags.io/PT/flat/64.png"
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "flag_url": "https://www.countryflags.io/AR/flat/64.png"
+    },
+    {
+      "name": "South Korea",
+      "code": "KR",
+      "flag_url": "https://www.countryflags.io/KR/flat/64.png"
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "flag_url": "https://www.countryflags.io/IL/flat/64.png"
+    },
+    {
+      "name": "Czech Republic",
+      "code": "CZ",
+      "flag_url": "https://www.countryflags.io/CZ/flat/64.png"
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "flag_url": "https://www.countryflags.io/CL/flat/64.png"
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "flag_url": "https://www.countryflags.io/UY/flat/64.png"
+    }
+  ]
+  }
+  
